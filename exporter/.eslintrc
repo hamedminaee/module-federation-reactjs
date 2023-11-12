@@ -1,0 +1,22 @@
+{
+    "parser": "babel-eslint",
+    "extends": ["airbnb"],
+    "rules": {
+        "no-undef": "off",
+        "react/jsx-filename-extension": "off",
+        "import/extensions": "off",
+        "import/no-unresolved": "off",
+        "import/order": "off",
+        "react/destructuring-assignment": "off",
+        "react/prop-types": "off",
+        "react/button-has-type": "off",
+        "react/jsx-props-no-spreading": "off",
+        "no-plusplus": "off",
+        "import/no-dynamic-require": "off",
+        "global-require": "off",
+        "react/react-in-jsx-scope": "off",        
+        "no-unused-vars": "off",
+        "max-len": "off"
+
+    }
+}

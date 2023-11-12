@@ -1,0 +1,83 @@
+{
+  "folders": [
+	{
+		"path": "../../../larry"
+	},
+	{
+		"path": "../../../react-react"
+	},
+	{
+		"path": "../../../react-tutorial"
+	},
+	{
+		"path": "../../../../minikube and kubernetes/kub-action-01-starting-setup"
+	},
+	{
+		"path": "../../../../minikube and kubernetes/kub-action-02-declarative-approach-basics"
+	},
+	{
+		"path": "../../../Go"
+	},
+	{
+		"path": "../../../mongoose/mongoose"
+	},
+	{
+		"path": "../../../udemy/09-getting-and-displaying-orders"
+	},
+	{
+		"path": "../../../css-practice"
+	},
+	{
+		"path": "../../../graphql"
+	},
+	{
+		"path": "../../../python"
+	},
+	{
+		"path": "../../../react-udemy-practice"
+	},
+	{
+		"path": "../../../the-ultimate-react-course"
+	},
+	{
+		"path": "../../../javascript-interview-questions"
+	},
+	{
+		"path": "../../../react-max-proj"
+	},
+	{
+		"path": "../../../resources"
+	},
+	{
+		"path": "../../../all"
+	},
+	{
+		"path": "../../../go-postgres-graph/go-graph-postgres"
+	},
+	{
+		"path": "../../../my-portfolio/my-portfolio"
+	},
+	{
+		"path": "../../../my-portfolio-react/myportfolio-react"
+	},
+	{
+		"path": "../../../react-webpack-template/react-webpack-template"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "ruff.organizeImports": false,
+    "editor.formatOnSave": true,
+    "liveServer.settings.multiRootWorkspaceName": "css-practice",
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.black-formatter",
+      "editor.codeActionsOnSave": {
+        "source.organizeImports": true,
+        "source.fixAll": true
+      }
+    },
+    "python.formatting.provider": "black"
+  }
+}
